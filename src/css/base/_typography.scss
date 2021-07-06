@@ -1,0 +1,77 @@
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.font-lato {
+  font-family: "Lato", sans-serif;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.font-normal {
+  font-weight: normal;
+}
+
+.decoration-none {
+  text-decoration: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.list-style-none {
+  list-style-type: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.font--12 {
+  font-size: 12px;
+}
+
+.font--14 {
+  font-size: 14px;
+}
+
+.font--40 {
+  font-size: 40px;
+}
+
+.font--48 {
+  font-size: 48px;
+}
+
+.font--22 {
+  font-size: 22px;
+}
+
+.font--60 {
+  font-size: 60px;
+}
+
+@media (max-width: 576px) {
+  .font--40 {
+    font-size: 30px;
+  }
+  
+  .font--48 {
+    font-size: 38px;
+  }
+}

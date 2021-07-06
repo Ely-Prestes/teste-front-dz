@@ -1,0 +1,106 @@
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.j-content-start {
+  justify-content: flex-start;
+}
+
+.j-content-center {
+  justify-content: center;
+}
+
+.j-content-end {
+  justify-content: flex-end;
+}
+
+.j-content-between {
+  justify-content: space-between;
+}
+
+.j-content-around {
+  justify-content: space-around;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.display-none {
+  display: none;
+}
+
+.p-x-100 {
+  padding: 0 100px;
+}
+
+.p-x-50 {
+  pad: 0 50px;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.m-line-end--25 {
+  margin-inline-end: 25px;
+}
+
+.m-line-start--25 {
+  margin-inline-start: 25px;
+}
+
+.m-b--50 {
+  margin-bottom: 50px;
+}
+
+.p-b--50 {
+  padding-bottom: 50px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.z-index--2 {
+  z-index: 2;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

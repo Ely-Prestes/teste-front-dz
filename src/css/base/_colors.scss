@@ -1,0 +1,71 @@
+$color-text: #656666;
+$color-title: #656565;
+$color-black: #000000;
+$color-white: #FFFFFF;
+$color-gray: #E5E5E5;
+$color-gray-ligth: #F6F6F8;
+$color-primary: #38C1C9;
+$color-primary-dark: #333333;
+$color-secondary: #32B3B9;
+$color-secondary-light: #c4c4c4;
+$color-tertiary: #A3CF53;
+
+.color-white {
+	color: $color-white;
+}
+.color-text {
+	color: $color-text;
+}
+.color-title {
+	color: $color-title;
+}
+.color-gray {
+	color: $color-gray;
+}
+.color-gray-ligth {
+	color: $color-gray-ligth;
+}
+.color-primary {
+	color: $color-primary;
+}
+.color-primary-dark {
+	color: $color-primary-dark;
+}
+.color-secondary {
+	color: $color-secondary;
+}
+.color-secondary-light {
+	color: $color-secondary-light;
+}
+.color-tertiary {
+	color: $color-tertiary;
+}
+
+.bg-black {
+	background-color: $color-black;
+}
+.bg-gray {
+	background-color: $color-gray;
+}
+.bg-gray-ligth {
+	background-color: $color-gray-ligth;
+}
+.bg-primary {
+	background-color: $color-primary;
+}
+.bg-primary-dark {
+	background-color: $color-primary-dark;
+}
+.bg-secondary {
+	background-color: $color-secondary;
+}
+.bg-secondary-light {
+	background-color: $color-secondary-light;
+}
+.bg-tertiary {
+	background-color: $color-tertiary;
+}
+
+.bg-transparent {
+	background-color: transparent;
+}
